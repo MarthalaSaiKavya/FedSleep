@@ -29,7 +29,7 @@ To create training samples for clients and validation samples on the server side
 
 The implementation of Federated Averaging resulted in the following observations:
 
-- The use of Federated Averaging reduced accuracy by 4.06% and led to an increase in loss by 0.32.
+- The use of Federated Averaging reduced accuracy by 4.06% from the centralized apporach and led to an increase in loss by 0.32.
 - These results indicate the substantial impact of federated learning in converging models in a distributed-privacy-conserving fashion.
 - Detailed client-specific results are presented in Table 1, and the learning progression is visualized in Figure 1.
 
