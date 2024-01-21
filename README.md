@@ -37,7 +37,7 @@ The implementation of Federated Averaging resulted in the following observations
 
 ![Learning Progression](./images/acc.png)
 
-*Figure 1 shows the progression of accuracy for individual clients after each aggregation. The image provides a clear visualization of the model's learnable capacity.*
+*Figure 1 shows the progression of accuracy for individual clients after each aggregation. The image provides a clear visualization of the FedSleep's learnable capacity.*
 
 ### Table 1
 
