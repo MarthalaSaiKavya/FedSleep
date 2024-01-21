@@ -41,7 +41,7 @@ The implementation of Federated Averaging resulted in the following observations
 
 ### Table 1
 
-[Performance of each Client](https://github.com/MarthalaSaiKavya/FedSleep/blob/main/images/history.csv)
+[Client-wise Performance](https://github.com/MarthalaSaiKavya/FedSleep/blob/main/images/history.csv)
 
 *Table 1 displays the performance of different clients throughout the learning process. It includes client-wise accuracy and loss values after each aggregation step.*
 
